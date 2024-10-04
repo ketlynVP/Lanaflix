@@ -1,0 +1,17 @@
+body{
+    color:azure;
+    background-color: black;
+    margin: 0px;
+    font-family: 'Chakra Petch';
+    margin-bottom: 100px;
+}
+
+
+    header{
+        border-bottom: solid 2px royalblue(42, 122, 228);
+        padding: 20px;
+        font-size: 32px;
+        color: blue(42, 122, 228);
+
+    }
+    
